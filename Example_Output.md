@@ -1,5 +1,6 @@
 
-Write the word that you want to look up :   increase
+# Write the word that you want to look up :     *increase*
+
 [
   {
     "word": "increase",
